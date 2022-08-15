@@ -1,0 +1,17 @@
+Need:
+    Collection of Package
+    Customer can choose personal trainer
+    Customer Dashboard with their personal trainer
+
+
+
+
+Done:
+    firebase connected
+    login page UI done 
+    validation done 
+    BMI implemented
+
+
+Tournament App
+    

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>790292578103-7jtqqp66aa7o4soanparjccrdds3v4ou.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.790292578103-7jtqqp66aa7o4soanparjccrdds3v4ou</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>790292578103-6d512okeupmuv4gcgpku7aa2as2pgkie.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCn3FWVbgpyX0VDYxrdLEbyJjpXbWtf9Uw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>790292578103</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gymApp</string>
+	<key>PROJECT_ID</key>
+	<string>gym-app-flutter-firebase-sdk</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gym-app-flutter-firebase-sdk.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:790292578103:ios:7d458891fb6264b41164b2</string>
+</dict>
+</plist>
